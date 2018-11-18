@@ -8,3 +8,7 @@
 
 - [Пример получения информации о быстродействии - SystemPerformanceInformation](NtQuerySystemInformation/Example3)
 
+## NtAllocateVirtualMemory
+
+- [Пример резервирования (MEM_RESERVE) и передачи (MEM_COMMIT) виртуальной памяти процессу](NtAllocateVirtualMemory/Example1)
+
